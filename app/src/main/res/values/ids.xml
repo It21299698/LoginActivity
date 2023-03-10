@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtStudentId" type="id">Edit Student</item>
+    <item name="tvYear" type="id">TV Year</item>
+    <item name="spnsemester" type="id">SPN Semester</item>
+    <item name="tvSemester" type="id">TV Semester</item>
+    <item name="spnSemester" type="id">SPN Semester</item>
+    <item name="cbAgree" type="id">CB Agree</item>
+</resources>
